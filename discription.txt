@@ -1,4 +1,6 @@
 Wel come to new project 
 sunday
   come with idea
+make a snake
+move in all diection
   end
