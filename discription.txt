@@ -3,4 +3,9 @@ sunday
   come with idea
 make a snake
 move in all diection
+
+
+add human
+add balls
+
   end
